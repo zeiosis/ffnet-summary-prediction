@@ -16,6 +16,12 @@ s1.pred_acc()
 >>>'2t1r'
 ```
 
+```
+var add2 = function(number) {
+  return number + 2;
+}
+```
+
 <h3>Example FFWebtext object:</h3>
 ```
 ffwt1 = FFWebtext(filename='ffdump7.txt')
