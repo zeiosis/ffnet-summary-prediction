@@ -16,11 +16,11 @@ use class FFWebtext to reference raw web-scraped text, whether in string form or
 
 <h3>Example FFWebtext object:</h3>
 
-ffwt1 = FFWebtext(filename='ffdump7.txt')
+    ffwt1 = FFWebtext(filename='ffdump7.txt')
 
-ffwt1.to_csv('ffdump7.csv)
+    ffwt1.to_csv('ffdump7.csv)
 
-pd.read_csv('ffdump7.csv)
+    pd.read_csv('ffdump7.csv)
+    >>> <DataFrame>
 
-etc.
-```
+
