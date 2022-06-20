@@ -9,7 +9,9 @@ use class FFWebtext to reference raw web-scraped text, whether in string form or
 
 <h3>Example Summary object:</h3>
 <code>s1 = Summary('She had a tiny, tiny, tiny crush on him. Maybe.', 'Romance', 'Drama', 'Romance', 'Hurt_Comfort')
+  
 s1.pred_acc()
+  
 >>>'2t1r'</code>
 
 <h3>Example FFWebtext object:</h3>
