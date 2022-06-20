@@ -14,7 +14,15 @@ use class FFWebtext to reference raw web-scraped text, whether in string form or
   >>> '2t1r'
 ```
 
+# Heading 1 #
 
+    Markup :  # Heading 1 #
+
+    -OR-
+
+    Markup :  ============= (below H1 text)
+
+## Heading 2 ##
 <h3>Example FFWebtext object:</h3>
 ```
 ffwt1 = FFWebtext(filename='ffdump7.txt')
